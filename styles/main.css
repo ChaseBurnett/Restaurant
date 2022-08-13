@@ -169,6 +169,13 @@ a:hover {
     justify-content: center;
 }
 
+
+.colour {
+    color: black;
+    justify-content: center;
+    padding: 1px;
+}
+
 ::-webkit-scrollbar {
     width: 20px;
   }
